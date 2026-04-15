@@ -15,11 +15,11 @@ authors:
   - family-names: Wei
     given-names: Hua
 repository-code: "https://github.com/DaRL-GenAI/instructional_agents-skills"
-url: "https://hyan-yao.github.io/instructional_agents_homepage/"
+url: "https://darl-genai.github.io/instructional_agents_homepage/"
 license: MIT
 preferred-citation:
-  type: article
-  title: "Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties"
+  type: generic
+  title: "Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design"
   authors:
     - family-names: Yao
       given-names: Huaiyuan
@@ -31,6 +31,9 @@ preferred-citation:
       given-names: Nadia
     - family-names: Wei
       given-names: Hua
-  journal: "arXiv preprint arXiv:2508.19611"
   year: 2025
+  identifiers:
+    - type: other
+      value: "arXiv:2508.19611"
+      description: "arXiv preprint"
   url: "https://arxiv.org/abs/2508.19611"

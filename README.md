@@ -12,12 +12,14 @@
 If these skills or the underlying pipeline are useful in your work, please cite:
 
 ```bibtex
-@article{yao2025instructional,
-  title   = {Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties},
-  author  = {Yao, Huaiyuan and Xu, Wanpeng and Turnau, Justin and Kellam, Nadia and Wei, Hua},
-  journal = {arXiv preprint arXiv:2508.19611},
-  year    = {2025},
-  url     = {https://arxiv.org/abs/2508.19611}
+@misc{yao2025instructionalagentsllmagents,
+  title={Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design},
+  author={Yao, Huaiyuan and Xu, Wanpeng and Turnau, Justin and Kellam, Nadia and Wei, Hua},
+  year={2025},
+  eprint={2508.19611},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2508.19611},
 }
 ```
 
@@ -90,5 +92,5 @@ MIT License — see [LICENSE](LICENSE).
 
 - 📦 [Main repo](https://github.com/DaRL-GenAI/instructional_agents)
 - 📄 [Paper (arXiv)](https://arxiv.org/abs/2508.19611)
-- 🌐 [Homepage](https://hyan-yao.github.io/instructional_agents_homepage/)
+- 🌐 [Homepage](https://darl-genai.github.io/instructional_agents_homepage/)
 - 🐛 [Issues](https://github.com/DaRL-GenAI/instructional_agents-skills/issues)
