@@ -1,0 +1,24 @@
+{
+  "name": "instructional-agents",
+  "version": "0.1.0",
+  "description": "Claude Code skills for the Instructional Agents pipeline — automated course-material generation, LaTeX-to-PPTX conversion, slide evaluation, and more.",
+  "author": {
+    "name": "DaRL-GenAI",
+    "url": "https://github.com/DaRL-GenAI"
+  },
+  "homepage": "https://hyan-yao.github.io/instructional_agents_homepage/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaRL-GenAI/instructional_agents-skills"
+  },
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "slides",
+    "latex",
+    "pptx",
+    "llm-agents",
+    "instructional-design",
+    "addie"
+  ]
+}

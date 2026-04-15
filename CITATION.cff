@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use these Claude Code skills or the underlying Instructional Agents pipeline in your research, please cite the paper below."
+title: "Instructional Agents: Claude Code Skills"
+abstract: "Claude Code skills wrapping the Instructional Agents multi-agent pipeline for automated course-material generation, including LaTeX-to-PPTX conversion, slide evaluation, and full ADDIE course generation."
+type: software
+authors:
+  - family-names: Yao
+    given-names: Huaiyuan
+  - family-names: Xu
+    given-names: Wanpeng
+  - family-names: Turnau
+    given-names: Justin
+  - family-names: Kellam
+    given-names: Nadia
+  - family-names: Wei
+    given-names: Hua
+repository-code: "https://github.com/DaRL-GenAI/instructional_agents-skills"
+url: "https://hyan-yao.github.io/instructional_agents_homepage/"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties"
+  authors:
+    - family-names: Yao
+      given-names: Huaiyuan
+    - family-names: Xu
+      given-names: Wanpeng
+    - family-names: Turnau
+      given-names: Justin
+    - family-names: Kellam
+      given-names: Nadia
+    - family-names: Wei
+      given-names: Hua
+  journal: "arXiv preprint arXiv:2508.19611"
+  year: 2025
+  url: "https://arxiv.org/abs/2508.19611"
